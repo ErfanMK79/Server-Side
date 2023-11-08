@@ -1,0 +1,29 @@
+﻿<table dir="rtl">
+    <tr>
+        <th>آیدی محصول</th>
+        <th>نام محصول</th>
+        <th>مشخصات محصول</th>
+        <th>توضیحات</th>
+        <th>دسته بندی</th>
+        <th>موجود بودن محصول</th>
+        <th>بخش</th>
+    </tr>
+    @{
+        foreach(var item in Model)
+        {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Name</td>
+            <td>@item.Specification</td>
+            <td>@item.Description</td>
+            <td>@item.Category</td>
+            <td>@item.Inventory</td>
+            <td>@item.Price</td>
+        </tr>
+        }
+    }
+    <tr>
+        <td colspan="6">مجموع قیمت</td>
+        <td>@ViewBag.Sum</td>
+    </tr>
+</table>
