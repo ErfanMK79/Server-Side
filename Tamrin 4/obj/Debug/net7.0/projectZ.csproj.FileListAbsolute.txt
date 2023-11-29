@@ -1,0 +1,7 @@
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.AssemblyInfoInputs.cache
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.AssemblyInfo.cs
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.csproj.CoreCompileInputs.cache
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.RazorAssemblyInfo.cache
+C:\Users\Erfan\Desktop\projectZ\obj\Debug\net7.0\projectZ.RazorAssemblyInfo.cs
